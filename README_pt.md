@@ -8,4 +8,4 @@ O Alura Challenge BI é um evento de quatro semanas em que somos desafiados a fa
 
 Neste repositório, você irá encontrar pastas individuais para cada _dashboard_. Dentro das pastas haverá um pequeno documento _markdown_ explicando as tarefas e o painel.
 
-Ao fim do desafio, eu estarei publicando um post no meu blog sobre a experiência e irei apresentar os painéis no mesmo lugar.
+Ao fim do desafio, eu estarei publicando um post no meu blog sobre a experiência e irei apresentar os painéis no meu [blog](https://devmedeiros.github.io/pt/).
