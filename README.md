@@ -8,4 +8,4 @@ The Alura Challenge BI is a four-week event where we're challenged to make BI da
 
 In this repository, you can find individual folders for each dashboard. Inside the folders, there will be a small markdown document explaining the task and dashboard.
 
-At the end of the challenge, I'll be uploading a blog post about the experience and I'll showcase all the dashboards at the same place.
+At the end of the challenge, I'll be uploading a blog post about the experience and I'll showcase all the dashboards at my [blog](https://devmedeiros.github.io/).
