@@ -13,7 +13,7 @@ Alura Films asked us to calculate the following measures:
 
 Most of the data cleaning was done using Power BI. For the exception of parental rating, as I classified it myself, given that most of it needed to be searched and I wanted to try to fit all of them in the Brazilian Parental Rating. The columns were translated using Google Sheets, I had to correct a few translations myself, like **Western** to **Faroeste**.
 
-For the live dashboard, you can go to this [link](https://bit.ly/3uZP9MD). And you can check a few screenshots below:
+For the live dashboard, you can go to this [link](https://bit.ly/3HnLPxt). And you can check a few screenshots below:
 
 ![Resumo tab](https://ik.imagekit.io/devmedeiros/alura_challenge/Alura_Films_-_Resumo_i4tBRQIya.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645050651262)
 ![Avaliação tab](https://ik.imagekit.io/devmedeiros/alura_challenge/Alura_Films_-_Avalia%C3%A7%C3%A3o_h34YSez2qi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645050650819)
