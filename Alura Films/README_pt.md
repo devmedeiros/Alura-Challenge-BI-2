@@ -13,7 +13,7 @@ A Alura Films pediu pra calcularmos as seguintes medidas:
 
 A maioria do tratamento dos dados foi feito através do Power BI. Com exceção da classificação indicativa, que eu tive que classificar eu mesma, dado que a maioria dela precisava ser pesquisada e eu quis tentar encaixar elas no sitema de classificação brasileiro. As colunas foram traduzidas usando as Planilhas do Google, eu tive que corrigir algumas traduções como **Western** para **Faroeste**.
 
-Para ver o _dashboard_, você pode checar este [link](https://bit.ly/3uZP9MD). E também pode ver algumas fotos dele abaixo:
+Para ver o _dashboard_, você pode checar este [link](https://bit.ly/3HnLPxt). E também pode ver algumas fotos dele abaixo:
 
 ![Resumo tab](https://ik.imagekit.io/devmedeiros/alura_challenge/Alura_Films_-_Resumo_i4tBRQIya.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645050651262)
 ![Avaliação tab](https://ik.imagekit.io/devmedeiros/alura_challenge/Alura_Films_-_Avalia%C3%A7%C3%A3o_h34YSez2qi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645050650819)
