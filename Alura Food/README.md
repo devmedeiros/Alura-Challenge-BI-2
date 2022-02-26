@@ -1,4 +1,6 @@
-**Alura Foods** asked the participants to calculate the following measures:
+# Dashboard Alura Food
+
+**Alura Food** asked the participants to calculate the following measures:
 
  - Filter by city, restaurant and if it has a reservation
  - Total restaurants in India
