@@ -7,5 +7,3 @@ O Alura Challenge BI é um evento de quatro semanas em que somos desafiados a fa
 - [ ] A terceira empresa, **Alura Skimo**, precisa analisar as métricas de suas vendas.
 
 Neste repositório, você irá encontrar pastas individuais para cada _dashboard_. Dentro das pastas haverá um pequeno documento _markdown_ explicando as tarefas e o painel.
-
-Ao fim do desafio, eu estarei publicando um post no meu blog sobre a experiência e irei apresentar os painéis no meu [blog](https://devmedeiros.github.io/pt/).
