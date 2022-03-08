@@ -4,6 +4,6 @@ O Alura Challenge BI é um evento de quatro semanas em que somos desafiados a fa
 
 - [x] A primeira empresa, **Alura Films**, necessita analisar dados sobre o IMDB (Internet Movie Database) dos filmes e suas informações. Veja o _dashboard_ [aqui](https://bit.ly/3HnLPxt).
 - [x] A segunda empresa, **Alura Food**, precisa de um dashboard para analisar o mercado de restaurantes na Índia. Veja o _dashboard_ [aqui](https://bit.ly/3tawI5h)
-- [ ] A terceira empresa, **Alura Skimo**, precisa analisar as métricas de suas vendas.
+- [x] A terceira empresa, **Alura Skimo**, precisa analisar as métricas de suas vendas. Veja o _dashboard_ [aqui](https://bit.ly/3pNOxq4).
 
 Neste repositório, você irá encontrar pastas individuais para cada _dashboard_. Dentro das pastas haverá um pequeno documento _markdown_ explicando as tarefas e o painel.
