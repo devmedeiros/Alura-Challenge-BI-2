@@ -6,7 +6,7 @@ The Alura Challenge BI is a four-week event where we're challenged to make BI da
 
 To learn more about the challenge please visit the official [page](https://www.alura.com.br/challenges/bi-2?host=https://cursos.alura.com.br).
 
-# Alura Films Dashboard
+# Alura Films Dashboard 🎞️
 
 Alura Films asked us to calculate the following measures:
 
@@ -25,7 +25,7 @@ Most of the data cleaning was done using Power BI. For the exception of parental
   <img src="https://user-images.githubusercontent.com/33239902/176896739-26bf78ef-980f-494b-b9a3-aeb596f46d03.gif" alt="a gif showing how the alura film dashboard work">
 </p>
 
-# Dashboard Alura Food
+# Dashboard Alura Food 🍝
 
 **Alura Food** asked the participants to calculate the following measures:
 
@@ -44,7 +44,7 @@ I cleaned the data through Power BI, translated a few texts from English to Port
   <img src="https://user-images.githubusercontent.com/33239902/176906617-80e0a1c3-3b3a-4f26-9ee1-2747ba1e00e1.gif" alt="a gif showing how the alura food dashboard work">
 </p>
 
-# Dashboard Alura Skimo
+# Dashboard Alura Skimo 🍨
 
 **Alura Skimo** asked the participants to calculate the following measurements:
 
