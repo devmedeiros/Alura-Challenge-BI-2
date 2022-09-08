@@ -1,6 +1,6 @@
 # Alura Challenge BI 2
 
-> Este README também está disponível em [Português](https://github.com/devmedeiros/Alura-Challenge-BI-2/blob/main/README_pt.md)!
+> Este README também está disponível em [Português](https://github.com/devmedeiros/Alura-Challenge-BI-2/blob/main/README.md)!
 
 The Alura Challenge BI is a four-week event where we're challenged to make BI dashboards according to the request of three made-up companies. In this repository, you can find individual folders for each dashboard where you can find the datasets used, example images, and the `pbix` file. If you want to see the dashboard live please go to [this blog post](https://devmedeiros.com/post/alura-challenge-bi-2/) where I embed the three dashboards and gave a small explanation on each of them.
 
