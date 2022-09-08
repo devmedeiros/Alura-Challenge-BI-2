@@ -1,5 +1,7 @@
 # Alura Challenge BI 2
 
+> This README is also available in [English](https://github.com/devmedeiros/Alura-Challenge-BI-2/blob/main/README_en.md)!
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge BI 2**
